@@ -1,6 +1,6 @@
 # PENORA🖊️
 
-## A decentralized platform to write and post Blog Post.
+## A decentralized platform to read and write articles.
 
 ## Project Presentation: 
 
