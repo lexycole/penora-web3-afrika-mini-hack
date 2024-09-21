@@ -1,6 +1,6 @@
 # PENORA🖊️
 
-## A decentralized platform to read and write articles.
+## A decentralized platform to read and write articles that use web3 technology like metamask wallet to sign in, ink of polkadot and arbitrum stylus to read and write article to the blockchain network, and it is deploy uon arbitrum network.
 
 ## Project Presentation: 
 
