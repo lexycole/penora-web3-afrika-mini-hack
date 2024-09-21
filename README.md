@@ -1,6 +1,6 @@
 # PENORA🖊️
 
-### Our platform leverages cutting-edge Web3 technologies to provide a secure, decentralized environment for reading and writing articles. Users can seamlessly log in using their MetaMask wallet, ensuring private and secure authentication without traditional credentials. The platform is built using Polkadot's Ink! for smart contracts, with Arbitrum Stylus to enable efficient article management directly on the blockchain. Articles are stored and retrieved from the decentralized Arbitrum network, ensuring immutability and transparency. By deploying on Arbitrum, we ensure scalable, low-cost interactions for users, fostering a true decentralized publishing experience.
+Our platform leverages cutting-edge Web3 technologies to provide a secure, decentralized environment for reading and writing articles. Users can seamlessly log in using their MetaMask wallet, ensuring private and secure authentication without traditional credentials. The platform is built using Polkadot's Ink! for smart contracts, with Arbitrum Stylus to enable efficient article management directly on the blockchain. Articles are stored and retrieved from the decentralized Arbitrum network, ensuring immutability and transparency. By deploying on Arbitrum, we ensure scalable, low-cost interactions for users, fostering a true decentralized publishing experience.
 
 ## Project Presentation: 
 
