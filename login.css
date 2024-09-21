@@ -1,0 +1,38 @@
+body {  
+    background-color: #D5006D; /* Dark pink color */  
+    display: flex;  
+    flex-direction: column;  
+    align-items: center;  
+    justify-content: center;  
+    height: 100vh; /* Full viewport height */  
+    margin: 0; /* Remove default margin */  
+    font-weight: bolder;
+}  
+
+h1 {  
+    font-size: 80px; /* Adjust font size as needed */  
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    color: rgb(4, 27, 48);
+    }
+
+
+button {  
+    margin: 5px; /* Space between buttons */  
+    padding: 10px 20px; /* Button padding */  
+    font-size: 18px; /* Button font size */  
+    font-family: "Protest Guerrilla", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: rgb(178, 179, 180);
+    border-radius: 25px 25px 25px 25px;
+    color: rgb(4, 33, 58);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(216, 224, 232);
+}
